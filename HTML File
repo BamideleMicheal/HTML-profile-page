@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>[Your Full Name]</h1>
+        <p>Aspiring Web Developer | [Your Current Role or Student Status]</p>
+        <img src="[Link to a profile picture, or leave this tag out]" alt="Profile Picture of [Your Name]" width="200">
+    </header>
+
+    <hr>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I am currently diving into web development. I enjoy learning about software architecture and how web applications are designed behind the scenes. This page is my very first project using strictly HTML.</p>
+        </section>
+
+        <section>
+            <h2>My Skills & Interests</h2>
+            <ul>
+                <li>HTML5</li>
+                <li>Problem Solving</li>
+                <li>Backend Systems and APIs</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>My Projects</h2>
+            <ol>
+                <li><strong>HTML Profile:</strong> A personal profile built with raw HTML.</li>
+                <li><strong>Future Goal:</strong> Building full-stack web applications.</li>
+            </ol>
+        </section>
+    </main>
+
+    <hr>
+
+    <footer>
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    </footer>
+
+</body>
+</html>
